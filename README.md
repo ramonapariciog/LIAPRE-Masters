@@ -1,3 +1,3 @@
 # LIAPRE-Masters
-\nprueba0-shell script
-\nprueba0-shell script
+
+Prueba con commit automatico por Shell script
