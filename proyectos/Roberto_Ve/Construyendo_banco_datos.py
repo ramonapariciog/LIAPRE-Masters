@@ -3,6 +3,7 @@ import os
 import re
 import numpy as np
 # import sckit-learn
+#EDicion de prueba
 import matplotlib.pyplot as plt
 
 def muestra_banda(array):
